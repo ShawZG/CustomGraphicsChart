@@ -1,2 +1,2 @@
 # CustomGraphicsChart
-A demo that display a bar chart by QtGraphics View Framework.
+A demo that display a bar chart by Qt Graphics View Framework.
